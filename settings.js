@@ -9,15 +9,15 @@ global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "africa/Abidjan" //ur location
 
 //new
-global.botname = '©zetsu' //ur bot name
+global.botname = 'Zₑₜₛᵤ-MD' //ur bot name
 global.ownernumber = ['2250555236730'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
+global.ownername = 'Zₑₜₛᵤ' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
-global.packname = "Sticker By"
+global.packname = "Sticker By Zₑₜₛᵤ"
 global.author = "GlobalTechInfo\n\n+923444844060"
 global.creator = "923444844060@s.whatsapp.net"
 global.xprefix = '@'
